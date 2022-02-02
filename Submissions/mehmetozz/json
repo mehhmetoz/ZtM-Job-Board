@@ -1,0 +1,16 @@
+{
+  "name": "Mehmet Oz",
+  "img": "https://media-exp1.licdn.com/dms/image/C5603AQF1tNk2bdmfag/profile-displayphoto-shrink_200_200/0/1532110400357?e=1649289600&v=beta&t=ez8aZvl2GGy2LGsOpvK1Tncx4XmBOlxoH39afI_J9tQ",
+  "email": "mehhmetoz@gmail.com",
+  "links": {
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/mehmetozz/",
+    "github": "https://github.com/mehhmetoz"
+  },
+  "jobTitle": "Senior Software Engineer",
+  "location": {
+    "city": "Istanbul",
+    "state": "",
+    "country": "Turkey"
+  }
+}
